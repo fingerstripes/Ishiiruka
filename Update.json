@@ -1,9 +1,9 @@
 {
-  "hash": "141eb81fd0e5ba161fcdb7b746f41c4bba1a5577",
-  "version": "FPM v2.3.1 BETA",
+  "hash": "b798bb0db083c03a284d2ba2bcb1ed9e0245eda8",
+  "version": "Fingy Build v5.5 FPM v2.3.1",
   "updater-update": "false",
   "update-page": "https://projectplusgame.com/download/",
-  "changelog": "Update to P+ 2.3.1 \nNow using dol files instead of elfs! \nP+ dolphin now has correct aspect ratio for non-widescreen \nDolphin automatically copies the netplay code when hosting \nMinor update from v2.3",
-  "download-page-windows": "https://github.com/jlambert360/PPlusReleases/releases/download/2.3.1/PPlusv2.3.1Windows.zip",
-  "download-page-mac": "https://github.com/jlambert360/PPlusReleases/releases/download/2.29/PPlusv2.29Mac.zip"
+  "changelog": "Updated to Fingy Build v5.5 P+ 2.3.1 \nNow set-up to auto-update (if Fingy did all the steps right...) \nP+ dolphin now has correct aspect ratio for non-widescreen \nDolphin automatically copies the netplay code when hosting \nEnjoy!",
+  "download-page-windows": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21298&authkey=ADAIONrqhBETsiM",
+  "download-page-mac": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21298&authkey=ADAIONrqhBETsiM"
 }
