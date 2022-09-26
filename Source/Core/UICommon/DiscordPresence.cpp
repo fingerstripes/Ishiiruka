@@ -148,7 +148,7 @@ namespace Discord
           "GMB",  // GMBE8P: Super Monkey Ball
           "GM2",  // GM2E8P: Super Monkey Ball 2
           "R8P",  // R8PE01: Super Paper Mario
-          "RSB",  // RSBE01: Super Smash Bros. Brawl
+          "RSB",  // RSBE01: Fingy Build v5.5 - P+ 2.3.1
           "GAL",  // GALE01: Super Smash Bros. Melee
           "PZL",  // PZLE01: The Legend of Zelda: Collector's Edition
           "G4S",  // G4SE01: The Legend of Zelda: Four Swords Adventures
