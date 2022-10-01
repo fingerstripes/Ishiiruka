@@ -8,7 +8,7 @@
 
 namespace Common
 {
-#define VERSION_STR "Fingy Build v5.5.1 FPM v2.3.1"
+#define VERSION_STR "Fingy Build v5.5.1 P+ v2.3.1"
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
 #elif defined DEBUGFAST

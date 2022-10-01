@@ -1,9 +1,9 @@
 {
   "hash": "e099d44a290dbb60baf7ccc79334b23f52e098b4",
-  "version": "Fingy Build v5.5.1 FPM v2.3.1",
+  "version": "Fingy Build v5.5.1 P+ v2.3.1",
   "updater-update": "false",
   "update-page": "https://projectplusgame.com/download/",
-  "changelog": "Updated to Fingy Build v5.5.1. \nP+ dolphin now has correct aspect ratio for non-widescreen \nDolphin automatically copies the netplay code when hosting \nEnjoy!",
-  "download-page-windows": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21302&authkey=AN0ixmJnfI9UID8",
-  "download-page-mac": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21302&authkey=AN0ixmJnfI9UID8"
+  "changelog": "Updated to Fingy Build v5.5.1. \See Fingy's pinned tweet (@fingerstripespm) for changes \nEnjoy!",
+  "download-page-windows": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21303&authkey=ALVIKtzt4ut16Yw",
+  "download-page-mac": "https://onedrive.live.com/download?cid=2620A82CE2F7FE75&resid=2620A82CE2F7FE75%21303&authkey=ALVIKtzt4ut16Yw"
 }
