@@ -8,7 +8,7 @@
 
 namespace Common
 {
-#define VERSION_STR "Fingy Build v5.5.1 P+ v2.3.1"
+#define VERSION_STR "Fingy Build v5.5.2 P+ v2.3.2"
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
 #elif defined DEBUGFAST
@@ -29,7 +29,7 @@ const std::string scm_rev_str = "Ishiiruka-Dolphin"
 #endif
 
 const std::string scm_rev_git_str = SCM_REV_STR;
-const std::string scm_rev_cache_str = "202210012245";
+const std::string scm_rev_cache_str = "202310012245";
 const std::string scm_desc_str = VERSION_STR;
 const std::string scm_branch_str = SCM_BRANCH_STR;
 const std::string scm_distributor_str = SCM_DISTRIBUTOR_STR;
